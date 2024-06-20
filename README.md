@@ -1,3 +1,7 @@
-Some implementations to better learn large language models (LLMs) and have intuition about them and here are some informative resources:\n
-https://jalammar.github.io/illustrated-gpt2/
+## Some Implementations to Better Learn Large Language Models (LLMs)
+
+To gain a better understanding and intuition about large language models, here are some informative resources:
+
+- [The Illustrated GPT-2 by Jay Alammar](https://jalammar.github.io/illustrated-gpt2/)
+
 
